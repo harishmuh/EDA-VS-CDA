@@ -75,5 +75,5 @@ can see the tail on the left side of your histogram
 Based on the chart above, we can see that your assumption is invalid. The highest quantity of products sold came from the office supplies category.
 
 ## **Assets**
-* You can check the detailed analysis on this [notebook]().
+* You can check the detailed analysis on this [jupyter notebook](https://github.com/harishmuh/EDA-VS-CDA/blob/main/notebook/The%20Notebook.ipynb).
 
