@@ -1,4 +1,4 @@
-# Exploratory Data Analysis VS Confirmatory Data Analysis
+# [Exploratory Data Analysis VS Confirmatory Data Analysis](https://www.coursera.org/projects/exploratory-vs-confirmatory-data-analysis-using-python)
 
 Imagine you're a data scientist working for a retail company that sells a wide range of products online and offline in the US. Your manager has asked you to analyze the company's sales data from the past four years to uncover hidden patterns and better understand customer behavior. What will you do? To begin, you conduct Exploratory Data Analysis (EDA) to get familiar with the dataset, and after that, you can perform Confirmatory Data Analysis (CDA) to test your hypotheses. 
 
