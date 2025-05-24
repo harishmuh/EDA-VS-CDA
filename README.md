@@ -66,7 +66,11 @@ can see the tail on the left side of your histogram
 ## **Confirmatory Data Analysis (CDA)** 
 * Once you've gathered these insights from time dimension, geographical data, product hierarchies, and distributional analysis, you can move on to Confirmatory Data Analysis (CDA) to test hypotheses
 * CDA is the process of using statistical summaries and graphical representations to evaluate the validity of an assumption about the data at hand. 
-* This is one of the popular data analysis methods. Where you make some assumptions about your data, and you start to validate it. For instance, you want to test your assumption:  "Every summer, technology products have the highest sales quantity compared to other product categories". You need to validate by collecting and filtering data on product quantity in the summer. The result can be seen below
+* This is one of the popular data analysis methods. Where you make some assumptions about your data, and you start to validate it. For instance, you want to test your assumption:
+
+  *"Every summer, technology products have the highest sales quantity compared to other product categories".*
+
+  You need to validate by collecting and filtering data on product quantity in the summer. The result can be seen below.
 
 **Product quantity based on category in the last 4 years**
 
@@ -75,5 +79,5 @@ can see the tail on the left side of your histogram
 Based on the chart above, we can see that your assumption is invalid. The highest quantity of products sold came from the office supplies category.
 
 ## **Assets**
-* You can check the detailed analysis on this [jupyter notebook](https://github.com/harishmuh/EDA-VS-CDA/blob/main/notebook/The%20Notebook.ipynb).
+* You can check the detailed analysis on this [Jupyter notebook](https://github.com/harishmuh/EDA-VS-CDA/blob/main/notebook/The%20Notebook.ipynb).
 
