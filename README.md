@@ -12,24 +12,23 @@ Imagine you're a data scientist working for a retail company that sells a wide r
 your dataset. 
 * Having a list of different information types (Time, Place, Product, Sales, etc.) that are in your dataset always helps.
 
-![Time, Place, Product,](https://github.com/harishmuh/EDA-VS-CDA/blob/main/images/Information%20cube.png?raw=true)
-
 ## **Time and Customer Information Aspect** 
 * If you have a datetime column in your data frame, make sure it has the datetime64 data type. 
 * To start your data exploration, always check the time span of your data.  
 * If you have a datetime column in your data frame, you can explore your data based on different granularity levels (Year, Month, Day, Hour, Minute, and Second). For example, you can aggregate the profit gained based on different Years, Months, and Days.  
 * Data aggregation is one of the required skills of data exploration.  
-* Line charts are the most common visualization techniques used while working with time 
-series data.
+* Line charts are the most common visualization techniques used while working with time series data.
 
 **Line chart of monthly profit**
+
 ![line chart](https://github.com/harishmuh/EDA-VS-CDA/blob/main/images/Monthly%20profit.PNG?raw=true)
 
-**Data Exploration - Geo Information** 
+## **Data Exploration - Geo Information** 
 * Choropleth maps are a common visualization technique used for exploring Geo Data.
 
 **Choropleth map of profit across the US**
- ![Choropleth map]() 
+
+ ![Choropleth map](https://github.com/harishmuh/EDA-VS-CDA/blob/main/images/profit%20in%20USA%20choropleth%20map.PNG?raw=true) 
 
 ## **Exploratory Data Analysis - Hierarchical Information about the products** 
 * Sunburst Diagram and Treemap Diagram are two of the most common data visualization techniques 
@@ -74,4 +73,7 @@ can see the tail on the left side of your histogram
 ![CDA](https://github.com/harishmuh/EDA-VS-CDA/blob/main/images/CDA%20testing%20hypotheses.PNG?raw=true)
 
 Based on the chart above, we can see that your assumption is invalid. The highest quantity of products sold came from the office supplies category.
+
+## **Assets**
+* You can check the detailed analysis on this [notebook]().
 
